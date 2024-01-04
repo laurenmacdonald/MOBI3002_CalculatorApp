@@ -7,7 +7,6 @@
 ## Calculator Mobile Application
 
 ![light app screenshot](Documentation/lightScreenshot.png)
-
 ![dark app screenshot](Documentation/darkScreenshot.png)
 
 Simple calculator mobile application that takes user input from UI and presents result. Loosely based on existing 
